@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/jqsong/Desktop/OpenGL/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jqsong/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/jqsong/Desktop/OpenGL/app/.cxx/Debug/f5s4w685/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jqsong/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/jqsong/Desktop/OpenGL/app/.cxx/Debug/f5s4w685/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "GLRender::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "GLRender",
+      "output": "/Users/jqsong/Desktop/OpenGL/app/build/intermediates/cxx/Debug/f5s4w685/obj/armeabi-v7a/libGLRender.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/jqsong/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/jqsong/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

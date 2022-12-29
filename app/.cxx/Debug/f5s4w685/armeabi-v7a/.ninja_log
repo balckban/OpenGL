@@ -1,0 +1,7 @@
+# ninja log v5
+0	72	1672333084296183943	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	6d91ebbf85f3db84
+73	133	1672333084356312743	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/armeabi-v7a/libGLRender.so	5fccd57ee3c9d7c
+0	63	1672333187518554613	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	6d91ebbf85f3db84
+63	102	1672333187558074255	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/armeabi-v7a/libGLRender.so	5fccd57ee3c9d7c
+0	143	1672333604039469054	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	6d91ebbf85f3db84
+143	194	1672333604091270077	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/armeabi-v7a/libGLRender.so	5fccd57ee3c9d7c

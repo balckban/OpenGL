@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/jqsong/Desktop/OpenGL/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jqsong/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/jqsong/Desktop/OpenGL/app/.cxx/Debug/f5s4w685/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jqsong/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/jqsong/Desktop/OpenGL/app/.cxx/Debug/f5s4w685/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "GLRender::@6890427a1f51a3e7e1df": {
+      "artifactName": "GLRender",
+      "abi": "x86",
+      "output": "/Users/jqsong/Desktop/OpenGL/app/build/intermediates/cxx/Debug/f5s4w685/obj/x86/libGLRender.so",
+      "runtimeFiles": []
+    }
+  }
+}

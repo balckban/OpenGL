@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/jqsong/Desktop/OpenGL/app/.cxx/Debug/f5s4w685/x86_64",
+  "command": "/Users/jqsong/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --sysroot=/Users/jqsong/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DGLRender_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o -c /Users/jqsong/Desktop/OpenGL/app/src/main/cpp/GLRender.cpp",
+  "file": "/Users/jqsong/Desktop/OpenGL/app/src/main/cpp/GLRender.cpp"
+}
+]

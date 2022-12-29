@@ -1,0 +1,7 @@
+# ninja log v5
+0	75	1672333084573966876	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	1507dae6876dafbc
+76	138	1672333084635621183	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/x86/libGLRender.so	3b27d0de4add4b60
+0	59	1672333187638746177	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	1507dae6876dafbc
+59	98	1672333187677515788	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/x86/libGLRender.so	3b27d0de4add4b60
+1	81	1672333604205220602	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	1507dae6876dafbc
+81	140	1672333604264512839	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/x86/libGLRender.so	3b27d0de4add4b60

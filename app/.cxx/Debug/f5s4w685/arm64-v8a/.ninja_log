@@ -1,0 +1,7 @@
+# ninja log v5
+0	114	1672333083364949455	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	e0b96c52e84940ab
+115	177	1672333083428362793	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/arm64-v8a/libGLRender.so	daddd70f5cb43fc6
+0	62	1672333187392755350	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	e0b96c52e84940ab
+63	103	1672333187433496844	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/arm64-v8a/libGLRender.so	daddd70f5cb43fc6
+1	92	1672333603790688472	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	e0b96c52e84940ab
+92	152	1672333603849898238	../../../../build/intermediates/cxx/Debug/f5s4w685/obj/arm64-v8a/libGLRender.so	daddd70f5cb43fc6
