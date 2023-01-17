@@ -2,6 +2,7 @@
 #include "com_example_opengl_GLRender.h"
 #include "GLES/gl.h"
 #include "GLES2/gl2.h"
+#include "CCNDKLogDef.h"
 
 extern "C" {
 
@@ -11,6 +12,7 @@ void Java_com_example_opengl_GLRender_ndkInitGl
     glClearDepthf(0);
     glEnable(GL_DEPTH_TEST);
     glDepthFunc(GL_LEQUAL);
+    LOGW("init");
 }
 
 void Java_com_example_opengl_GLRender_ndkPaintGl
